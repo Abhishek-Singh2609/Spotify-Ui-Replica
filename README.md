@@ -1,6 +1,8 @@
 # Spotify-Ui-Replica
 This repository presents a meticulously crafted Spotify clone built using HTML and CSS. It replicates the Spotify interface, ensuring a pixel-perfect visual experience across all devices (desktops, tablets, smartphones).
 
+![Screenshot (140)](https://github.com/Abhishek-Singh2609/Spotify-Ui-Replica/assets/76973944/91db90b1-afc9-4310-a513-5f73f7f8e1c2)
+
 # Key Features:
 
 Pixel-Perfect Replication: Mimics the Spotify layout and visual style for an authentic user experience.
